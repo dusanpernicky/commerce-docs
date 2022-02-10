@@ -21,7 +21,7 @@ can have the more simplistic *Default* workflow.
 
 Each order type can control its refresh settings to control how often
 order drafts are processed. This controls the [order refresh
-process.](../03.order-processing)
+process.](../order-refresh-and-process)
 
 ![Order type cart settings](../images/order-types-cart.png)
 
